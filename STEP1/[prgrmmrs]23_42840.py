@@ -1,3 +1,4 @@
+# https://programmers.co.kr/learn/courses/30/lessons/42840
 def solution(answers):
     adict = dict() 
     adict[1] = [1, 2, 3, 4, 5]

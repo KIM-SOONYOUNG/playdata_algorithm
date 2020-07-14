@@ -1,3 +1,4 @@
+# https://programmers.co.kr/learn/courses/30/lessons/12901
 def solution(a, b):
     day_list = ["SUN", "MON", "TUE", "WED", "THU", "FRI", "SAT"]
     tot = 4

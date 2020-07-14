@@ -1,3 +1,4 @@
+# https://programmers.co.kr/learn/courses/30/lessons/12918
 def solution(s):
     if len(s) not in [4, 6]: return False 
     num_list = list(map(str, [i for i in range(10)]))

@@ -1,3 +1,4 @@
+# https://programmers.co.kr/learn/courses/30/lessons/17681
 def to_bin(num, n): 
     res = '' 
     n -= 1 
@@ -17,7 +18,6 @@ def solution(n, arr1, arr2):
     arr1 = [to_bin(elem, n) for elem in arr1] 
     arr2 = [to_bin(elem, n) for elem in arr2] 
 
-    print(arr1, arr2)
     for i in range(n): 
         tmp = '' 
         for j in range(n): 

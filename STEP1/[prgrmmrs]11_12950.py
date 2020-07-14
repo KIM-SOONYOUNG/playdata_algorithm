@@ -1,3 +1,4 @@
+# https://programmers.co.kr/learn/courses/30/lessons/12950
 def solution(arr1, arr2):
     m, n = len(arr1), len(arr1[0]) 
     answer = [[0]*n for _ in range(m)] 
