@@ -31,8 +31,9 @@
 * [27. 예산](https://programmers.co.kr/learn/courses/30/lessons/12982)
 * [28. 체육복](https://programmers.co.kr/learn/courses/30/lessons/42862)
 * [29. 시저암호](https://programmers.co.kr/learn/courses/30/lessons/12926)
-* [30. 비밀지도](https://programmers.co.kr/learn/courses/30/lessons/17681)
+* [30. 비밀지도](https://programmers.co.kr/learn/courses/30/lessons/17681)  
 
+---
 ### STEP2 - 출처: 프로그래머스 연습문제
 #### <알고리즘 2단계>
 * [01. 피보나치수](https://programmers.co.kr/learn/courses/30/lessons/12945)
