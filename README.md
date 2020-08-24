@@ -32,3 +32,13 @@
 * [28. 체육복](https://programmers.co.kr/learn/courses/30/lessons/42862)
 * [29. 시저암호](https://programmers.co.kr/learn/courses/30/lessons/12926)
 * [30. 비밀지도](https://programmers.co.kr/learn/courses/30/lessons/17681)
+
+### STEP2 - 출처: 프로그래머스 연습문제
+#### <알고리즘 2단계>
+* [01. 피보나치수](https://programmers.co.kr/learn/courses/30/lessons/12945)
+* [02. 숫자의표현](https://programmers.co.kr/learn/courses/30/lessons/12924)
+* [03. N개의 최소공배수](https://programmers.co.kr/learn/courses/30/lessons/12953)
+* [04. 최댓값과 최솟값](https://programmers.co.kr/learn/courses/30/lessons/12939)
+* [05. 최솟값 만들기](https://programmers.co.kr/learn/courses/30/lessons/12941)
+* [06. 카펫](https://programmers.co.kr/learn/courses/30/lessons/42842)
+* [07. 멀리뛰기](https://programmers.co.kr/learn/courses/30/lessons/12914)
